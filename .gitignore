@@ -1,0 +1,22 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.DS_Store
+.vscode/
+.idea/
+# Never commit forensic evidence or extracted artifacts
+/data/
+evidence/
+*.dd
+*.img
+*.raw
+*.E01
+*.001
+*.vmdk
+*.vhd
+*.vhdx
+*.sqlite
+*.sqlite3
+*.db
+*.hive
